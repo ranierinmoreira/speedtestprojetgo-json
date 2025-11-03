@@ -1,0 +1,37 @@
+# Arquivos gerados pelo Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Arquivos de teste
+*.test
+
+# Arquivos de dependências
+vendor/
+
+# Arquivos de resultados (sensíveis ou grandes)
+results.json
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Arquivos temporários
+*.log
+*.tmp
+*.temp
+
+# Build
+speedtest
+speedtest.exe
+
